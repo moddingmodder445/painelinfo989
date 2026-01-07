@@ -15,7 +15,7 @@ local dlstatus = require('moonloader').download_status
 
 script_name("PainelInfo")
 script_author("Gerado por ChatGPT (GPT-5 Thinking mini) - Consolidado e Corrigido por Gemini")
-script_version("8.4.12-CorrecaoNil_p4ls") -- VersÃ£o: CorreÃ§Ã£o p4ls nil
+script_version("8.4.13") -- dog gay edition
 
 -- Janela state
 local window_open = imgui.ImBool(false)
