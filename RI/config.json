@@ -1,24 +1,56 @@
 {
-  "keys": {
-    "12345": {
-      "nick": "Belo",
-      "rank": "Moderador",
-      "active": true
-    },
-    "123": {
-      "nick": "Dog",
-      "rank": "Coordenador",
-      "active": true
-    },
-    "SENHA-EX-ADMIN": {
-      "nick": "ExAdmin",
-      "rank": "Ajudante",
-      "active": false
-    }
-  },
-  "duvidas": [
-    { "titulo": "Exemplo", "texto": "Texto..." }
-  ]
+  "staff": {
+    "Desenvolvedor": [
+      "LKWilliam"
+    ],
+    "Direcao": [
+      ".42.",
+      "Boris",
+      "LucasFirmino"
+    ],
+    "Coordenador": [
+      "Dog.",
+      "Cleyton.",
+      "MatheusUnity",
+      "DiegoN_",
+      "DaviL"
+    ],
+    "Administrador": [
+      "Mirian",
+      "TomRedl.",
+      "KrugeR.",
+      "Ryu."
+    ],
+    "Moderador": [
+      ".Lacta",
+      "Belo",
+      "Rafael182",
+      "MateusVictor",
+      "chukc",
+      "Dr.Manhattan_.",
+      "Lucasfuj",
+      "Davi.",
+      "LeonardoX",
+      "Caua.."
+    ],
+    "Ajudante": [
+      "NotoriousBIG",
+      "Liima.",
+      "Scheppard",
+      ".RagnaroK",
+      "Faggio",
+      "YuriUnity.",
+      "Koyama.",
+      "ZeGotinha_.",
+      "Uberzitoh"
+    ],
+    "Estagiario": [
+      "D0uglitas",
+      "Duarte.Tm",
+      "MitoMitoso",
+      ".PATCHENCO",
+      "BaySide",
+      "MolonLabe"
+    ]
+  }
 }
-
-
