@@ -1,18 +1,75 @@
 {
   "staff": {
-    "Desenvolvedor": ["WilliamL", "Belo"]
-    "Direcao": ["Boris"]
-    "Coordenador": ["Cleyton."]
-    "Administrador": ["Ryu."]
-    "Moderador": ["MariaAlice.", "Dog"]
-    "Ajudante": ["Ragnarok."]
-    "Estagiario": ["DaviL"]
+    "Desenvolvedor": [
+      "LKWilliam",
+      "SeuNickAqui"
+    ],
+    "Direcao": [
+      ".42.",
+      "Boris",
+      "LucasFirmino"
+    ],
+    "Coordenador": [
+      "Dog.",
+      "Cleyton.",
+      "MatheusUnity",
+      "DiegoN_",
+      "DaviL"
+    ],
+    "Administrador": [
+      "Mirian",
+      "TomRedl.",
+      "KrugeR.",
+      "Ryu."
+    ],
+    "Moderador": [
+      ".Lacta",
+      "Belo",
+      "Rafael182",
+      "MateusVictor",
+      "chukc",
+      "Dr.Manhattan_.",
+      "Lucasfuj",
+      "Davi.",
+      "LeonardoX",
+      "Caua.."
+    ],
+    "Ajudante": [
+      "NotoriousBIG",
+      "Liima.",
+      "Scheppard",
+      ".RagnaroK",
+      "Faggio",
+      "YuriUnity.",
+      "Koyama.",
+      "ZeGotinha_.",
+      "Uberzitoh"
+    ],
+    "Estagiario": [
+      "D0uglitas",
+      "Duarte.Tm",
+      "MitoMitoso",
+      ".PATCHENCO",
+      "BaySide",
+      "MolonLabe"
+    ]
   },
   "duvidas": [
-    {"titulo": "Regra 1", "texto": "Texto da regra..."},
-    {"titulo": "Comando X", "texto": "Explicação..."}
+    {
+      "titulo": "Limites Transf.",
+      "texto": "Tabela de limites de transferencia por nivel."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Nao e permitido DM (Deathmatch) em areas verdes. Respeite as regras do servidor."
+    },
+    {
+      "titulo": "Comandos",
+      "texto": "Use /ajuda para ver a lista de comandos basicos."
+    },
+    {
+      "titulo": "Suporte",
+      "texto": "Fale com um admin usando o comando /relatorio."
+    }
   ]
 }
-
-
-
