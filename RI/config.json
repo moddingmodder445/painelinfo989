@@ -1,77 +1,22 @@
 {
-  "staff": {
-    "Desenvolvedor": [
-      "LKWilliam",
-      "SeuNickAqui"
-    ],
-    "Direcao": [
-      ".42.",
-      "Boris",
-      "LucasFirmino"
-    ],
-    "Coordenador": [
-      "Dog.",
-      "Cleyton.",
-      "MatheusUnity",
-      "DiegoN_",
-      "DaviL"
-    ],
-    "Administrador": [
-      "Mirian",
-      "TomRedl.",
-      "KrugeR.",
-      "Ryu."
-    ],
-    "Moderador": [
-      ".Lacta",
-      "Belo",
-      "Rafael182",
-      "MateusVictor",
-      "chukc",
-      "Dr.Manhattan_.",
-      "Lucasfuj",
-      "Davi.",
-      "LeonardoX",
-      "Caua.."
-    ],
-    "Ajudante": [
-      "NotoriousBIG",
-      "Liima.",
-      "Scheppard",
-      ".RagnaroK",
-      "Faggio",
-      "YuriUnity.",
-      "Koyama.",
-      "ZeGotinha_.",
-      "Uberzitoh"
-    ],
-    "Estagiario": [
-      "D0uglitas",
-      "Duarte.Tm",
-      "MitoMitoso",
-      ".PATCHENCO",
-      "BaySide",
-      "MolonLabe"
-    ]
+  "keys": {
+    "SENHA-DO-BELO-123": {
+      "nick": "Belo",
+      "rank": "Desenvolvedor",
+      "active": true
+    },
+    "SENHA-DO-OUTRO-456": {
+      "nick": "OutroAdmin",
+      "rank": "Moderador",
+      "active": true
+    },
+    "SENHA-EX-ADMIN": {
+      "nick": "ExAdmin",
+      "rank": "Ajudante",
+      "active": false
+    }
   },
   "duvidas": [
-    {
-      "titulo": "Limites Transf.",
-      "texto": "Tabela de limites de transferencia por nivel."
-    },
-    {
-      "titulo": "Regras",
-      "texto": "Nao e permitido DM (Deathmatch) em areas verdes. Respeite as regras do servidor."
-    },
-    {
-      "titulo": "Comandos",
-      "texto": "Use /ajuda para ver a lista de comandos basicos."
-    },
-    {
-      "titulo": "Suporte",
-      "texto": "Fale com um admin usando o comando /relatorio."
-    }
+    { "titulo": "Exemplo", "texto": "Texto..." }
   ]
 }
-
-
