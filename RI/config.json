@@ -1,7 +1,12 @@
 {
   "staff": {
-    "Desenvolvedor": ["WilliamL"],
+    "Desenvolvedor": ["WilliamL"]
+    "Direcao": ["Boris"]
+    "Coordenador": ["Cleyton."]
+    "Administrador": ["Ryu."]
     "Moderador": ["MariaAlice.", "Dog"]
+    "Ajudante": ["Ragnarok."]
+    "Estagiario": ["DaviL"]
   },
   "duvidas": [
     {"titulo": "Regra 1", "texto": "Texto da regra..."},
