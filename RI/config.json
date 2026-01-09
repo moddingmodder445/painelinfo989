@@ -2,12 +2,12 @@
   "keys": {
     "12345": {
       "nick": "Belo",
-      "rank": "Desenvolvedor",
+      "rank": "Moderador",
       "active": true
     },
-    "SENHA-DO-OUTRO-456": {
-      "nick": "OutroAdmin",
-      "rank": "Moderador",
+    "123": {
+      "nick": "Dog",
+      "rank": "Coordenador",
       "active": true
     },
     "SENHA-EX-ADMIN": {
@@ -20,4 +20,5 @@
     { "titulo": "Exemplo", "texto": "Texto..." }
   ]
 }
+
 
