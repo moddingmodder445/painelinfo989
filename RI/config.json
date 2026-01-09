@@ -1,6 +1,6 @@
 {
   "staff": {
-    "Desenvolvedor": ["WilliamL"]
+    "Desenvolvedor": ["WilliamL", "Belo"]
     "Direcao": ["Boris"]
     "Coordenador": ["Cleyton."]
     "Administrador": ["Ryu."]
@@ -13,5 +13,6 @@
     {"titulo": "Comando X", "texto": "Explicação..."}
   ]
 }
+
 
 
