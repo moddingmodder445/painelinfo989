@@ -1,10 +1,11 @@
 {
   "staff": {
-    "Desenvolvedor": ["NickDev"],
-    "Moderador": ["NickMod1", "NickMod2"]
+    "Desenvolvedor": ["WilliamL"],
+    "Moderador": ["MariaAlice", "Dog"]
   },
   "duvidas": [
     {"titulo": "Regra 1", "texto": "Texto da regra..."},
     {"titulo": "Comando X", "texto": "Explicação..."}
   ]
 }
+
