@@ -1,6 +1,6 @@
 {
   "keys": {
-    "SENHA-DO-BELO-123": {
+    "12345": {
       "nick": "Belo",
       "rank": "Desenvolvedor",
       "active": true
@@ -20,3 +20,4 @@
     { "titulo": "Exemplo", "texto": "Texto..." }
   ]
 }
+
